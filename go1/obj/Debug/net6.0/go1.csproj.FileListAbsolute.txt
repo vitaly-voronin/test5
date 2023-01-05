@@ -1,0 +1,15 @@
+C:\repo\test5\go1\bin\Debug\net6.0\go1.exe
+C:\repo\test5\go1\bin\Debug\net6.0\go1.deps.json
+C:\repo\test5\go1\bin\Debug\net6.0\go1.runtimeconfig.json
+C:\repo\test5\go1\bin\Debug\net6.0\go1.dll
+C:\repo\test5\go1\bin\Debug\net6.0\go1.pdb
+C:\repo\test5\go1\obj\Debug\net6.0\go1.csproj.AssemblyReference.cache
+C:\repo\test5\go1\obj\Debug\net6.0\go1.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\test5\go1\obj\Debug\net6.0\go1.AssemblyInfoInputs.cache
+C:\repo\test5\go1\obj\Debug\net6.0\go1.AssemblyInfo.cs
+C:\repo\test5\go1\obj\Debug\net6.0\go1.csproj.CoreCompileInputs.cache
+C:\repo\test5\go1\obj\Debug\net6.0\go1.dll
+C:\repo\test5\go1\obj\Debug\net6.0\refint\go1.dll
+C:\repo\test5\go1\obj\Debug\net6.0\go1.pdb
+C:\repo\test5\go1\obj\Debug\net6.0\go1.genruntimeconfig.cache
+C:\repo\test5\go1\obj\Debug\net6.0\ref\go1.dll
